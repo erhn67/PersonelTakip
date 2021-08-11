@@ -1,0 +1,12 @@
+C:\Apps\c#_form_application\personel_takip\personel_takip\bin\Debug\personel_takip.exe.config
+C:\Apps\c#_form_application\personel_takip\personel_takip\bin\Debug\personel_takip.exe
+C:\Apps\c#_form_application\personel_takip\personel_takip\bin\Debug\personel_takip.pdb
+C:\Apps\c#_form_application\personel_takip\personel_takip\obj\Debug\personel_takip.csprojAssemblyReference.cache
+C:\Apps\c#_form_application\personel_takip\personel_takip\obj\Debug\personel_takip.Form1.resources
+C:\Apps\c#_form_application\personel_takip\personel_takip\obj\Debug\personel_takip.Properties.Resources.resources
+C:\Apps\c#_form_application\personel_takip\personel_takip\obj\Debug\personel_takip.csproj.GenerateResource.cache
+C:\Apps\c#_form_application\personel_takip\personel_takip\obj\Debug\personel_takip.csproj.CoreCompileInputs.cache
+C:\Apps\c#_form_application\personel_takip\personel_takip\obj\Debug\personel_takip.exe
+C:\Apps\c#_form_application\personel_takip\personel_takip\obj\Debug\personel_takip.pdb
+C:\Apps\c#_form_application\personel_takip\personel_takip\obj\Debug\personel_takip.Form2.resources
+C:\Apps\c#_form_application\personel_takip\personel_takip\obj\Debug\personel_takip.Form3.resources
